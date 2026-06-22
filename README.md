@@ -10,6 +10,7 @@ A simple college timetable webpage created using pure HTML.
 
 ## Technologies Used
 - HTML5
+- CSS
 
 ## Concepts Practiced
 - Tables
@@ -18,6 +19,8 @@ A simple college timetable webpage created using pure HTML.
 - colspan
 - Headings
 - Basic page structure
+- CSS text related properties
+- How to make content in center without using multiple unnecessary &nbsp tags
 
 ## Purpose
 This project was built to practice HTML table creation and understand how complex timetable layouts are designed using table elements.
